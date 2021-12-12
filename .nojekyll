@@ -1,1 +1,25 @@
+<!doctype html>
+<html>
+<head>
+   <meta charset = "utf-8">
+   <title>떡볶이 세상</title>
+</head>
+<body>
+<h1><a href="index.html">떡볶이 세상</a></h1>
+<ol>
+	<li><a href="1.html">지역별 떡볶이</a></li>
+	<li><a href="2.html">종류별 떡볶이</a></li>
+	<li><a href="3.html">특색있는 떡볶이</a></li>
+	<li><a href="4.html">떡볶이 프렌차이즈 본점</a></li>
+	<li><a href="5.html">온라인 판매 떡볶이</a></li>
+</ol>
+
+<h2>온라인 떡볶이</h2>
+<ul>
+  <li><a href="#">부산-이가네떡볶이</a></li>
+ 
+</ul>
+<head>
+</body>
+</html>
 
